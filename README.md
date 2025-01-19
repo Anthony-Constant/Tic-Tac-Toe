@@ -22,6 +22,9 @@ The game logic is as follows:
 
 This game requires Python 3 to be installed on your machine.
 
+## Demo
+
+https://youtu.be/RWz2d-hIOw8
 
 ## License
 
